@@ -31,5 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## some picture from the app 
 
-![](src\assets\home.PNG)
-![](src\assets\edit.PNG)
+![](src/assets/home.PNG)
+![](src/assets/edit.PNG)
